@@ -1,3 +1,3 @@
 # elmoudenimad.github.io
 
-This is a personal project for my own resume based on bootstrap
+This is a personal project for my own resume based on bootstrap : http://imadelmouden.fr/
